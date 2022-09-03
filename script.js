@@ -53,7 +53,6 @@ function createActionItem(categoria, imagem, nome, preco){
     }
 }
 createActionItem()
-// console.log(listaActionFigure)
 
 function createPaintingIem(categoria, imagem, nome, preco){
     if(categoria == 'Paintings'){
@@ -91,7 +90,7 @@ for(let i = 0; i < listaActionFigure.length; i++){
     let imagem = document.createElement('img')
     let nome = document.createElement('p')
     let preco = document.createElement('span')
-    // console.log(elementoLista)
+
 
     imagem.src = listaActionFigure[i].imagem
     nome.innerText = listaActionFigure[i].nome
