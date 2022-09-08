@@ -1,19 +1,19 @@
 let listaPainting = [
     {
         categoria: 'Paintings',
-        imagem: 'assets/painting/clock.jpg',
+        imagem: 'assets/img/painting/clock.jpg',
         nome: 'Relógio Smart',
         preco: 'R$ 497.00'
     },
     {
         categoria: 'Paintings',
-        imagem: 'assets/painting/gamepad.jpg',
+        imagem: 'assets/img/painting/gamepad.jpg',
         nome: 'Controle ps5',
         preco: 'R$ 250.00'
     },
     {
         categoria: 'Paintings',
-        imagem: 'assets/painting/personagem.jpg',
+        imagem: 'assets/img/painting/personagem.jpg',
         nome: 'Mr. Robot',
         preco: 'R$ 12500.00'
     }
@@ -22,19 +22,19 @@ let listaPainting = [
 let listaActionFigure = [
     {
         categoria: 'Action Figure',
-        imagem: 'assets/actions/animewoman.jpg',
+        imagem: 'assets/img/actions/animewoman.jpg',
         nome: 'Garota',
         preco: 'R$ 1.99'
     },
     {
         categoria: 'Action Figure',
-        imagem: 'assets/actions/dragonballpersonagem.jpg',
+        imagem: 'assets/img/actions/dragonballpersonagem.jpg',
         nome: 'Goku',
         preco: 'R$ 49.90'
     },
     {
         categoria: 'Action Figure',
-        imagem: 'assets/actions/starwarspersonagem.jpg',
+        imagem: 'assets/img/actions/starwarspersonagem.jpg',
         nome: 'Baby Yoda',
         preco: 'R$ 39.90'
     }
